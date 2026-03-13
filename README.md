@@ -108,7 +108,12 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/📧-vhsnts@gmail.com-00FF00?style=flat&logo=gmail&logoColor=000000" />
-  <img src="https://img.shields.io/badge/💼-Procuro+Estágio-00FF00?style=flat&logo=briefcase&logoColor=000000" />
+  
+  <span style="color: #FF8C00; font-size: 28px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
+  💼 **PROCURO ESTÁGIO** 💼
+  </span>
+  
+  <img src="https://img.shields.io/badge/💼-Procuro+Estágio-FF8C00?style=flat&logo=briefcase&logoColor=000000&color=FF8C00" />
 </div>
 
 ---
