@@ -1,16 +1,37 @@
+<div align="center">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=40&center=true&vCenter=true&width=1000&lines=Olá,+Eu+Sou+Vinicius!;Técnico+em+ADS+;Estudante+de+Sistemas+de+Informação;Desenvolvedor+Python+🐍;Hello,+I'm+Vinicius!;Information+Systems+Student;)](https://git.io/typing-svg)
+<div style="
+  background: linear-gradient(45deg, #000000 0%, #00FF00 25%, #000000 50%, #00FF00 75%, #000000 100%);
+  background-size: 400% 400%;
+  animation: gradientShift 3s ease infinite;
+  padding: 30px;
+  border: 3px solid #00FF00;
+  border-radius: 20px;
+  box-shadow: 0 0 30px #00FF00;
+  margin: 20px 0;
+">
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=45&center=true&vCenter=true&width=1000&lines=Olá,+Eu+Sou+Vinicius!;👨‍💻+Técnico+em+ADS;🐍+Bootcamp+Python+Santander;🎓+Sistemas+de+Informação;Hello,+I'm+Vinicius!;Information+Systems+Student;)](https://git.io/typing-svg)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🚀-Bootcamp%20Python%20Santander-00FF00?style=for-the-badge&logo=python&logoColor=000000&color=000000" />
-  <img src="https://img.shields.io/badge/🎓-Análise+e+Desenvolvimento-de+Sistemas-00FF00?style=for-the-badge&logo=school&logoColor=000000&color=000000" />
-  <img src="https://img.shields.io/badge/📚-Sistemas+de+Informação-00FF00?style=for-the-badge&logo=university&logoColor=000000&color=000000" />
+<div style="background: #00FF00; height: 4px; border-radius: 2px; margin: 15px 0;"></div>
+
+<img src="https://img.shields.io/badge/🚀-Bootcamp%20Python%20Santander-000000?style=for-the-badge&logo=python&logoColor=00FF00&color=00FF00" />
+<img src="https://img.shields.io/badge/🎓-Análise+e+Desenvolvimento-000000?style=for-the-badge&logo=school&logoColor=00FF00&color=00FF00" />
+<img src="https://img.shields.io/badge/📚-Sistemas+de+Informação-000000?style=for-the-badge&logo=university&logoColor=00FF00&color=00FF00" />
+
+</div>
 </div>
 
-## 👨‍💻 Sobre mim
+<style>
+@keyframes gradientShift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
+
+---
 
 <div align="center">
   <img src="https://img.shields.io/badge/📅-Comecei+em+2024-00FF00?style=flat-square&logo=calendar&logoColor=000000" />
@@ -40,12 +61,28 @@ Comecei a aprender programação em **2024**, durante o curso técnico. Desde en
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=00FF00)
 
 ### 💻 **Em Progresso** <span style="color: #00FF00">🔥</span>
-<div style="background: linear-gradient(90deg, #000000 0%, #00FF00 100%); padding: 8px; border-radius: 8px; display: inline-block; margin: 5px;">
-  <span style="color: #000000; font-weight: bold;">Bootcamp Python Santander</span>
+<div style="
+  background: linear-gradient(90deg, #000000 0%, #00FF00 100%); 
+  padding: 12px 20px; 
+  border-radius: 25px; 
+  display: inline-block; 
+  margin: 8px;
+  border: 2px solid #00FF00;
+  box-shadow: 0 4px 15px rgba(0,255,0,0.3);
+">
+  <span style="color: #000000; font-weight: bold; font-size: 16px;">🐍 Bootcamp Python Santander</span>
 </div>
 
-<div style="background: linear-gradient(90deg, #000000 0%, #00FF00 100%); padding: 8px; border-radius: 8px; display: inline-block; margin: 5px;">
-  <span style="color: #000000; font-weight: bold;">Desenvolvimento Web</span>
+<div style="
+  background: linear-gradient(90deg, #000000 0%, #00FF00 100%); 
+  padding: 12px 20px; 
+  border-radius: 25px; 
+  display: inline-block; 
+  margin: 8px;
+  border: 2px solid #00FF00;
+  box-shadow: 0 4px 15px rgba(0,255,0,0.3);
+">
+  <span style="color: #000000; font-weight: bold; font-size: 16px;">🌐 Desenvolvimento Web</span>
 </div>
 
 </div>
