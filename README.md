@@ -10,13 +10,15 @@
   margin: 20px 0;
 ">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=42&center=true&vCenter=true&width=1000&lines=Olá+Eu+Sou+Vinicius!;👨‍💻Técnico+em+ADS;🐍Bootcamp+Python+Santander;🎓Sistemas+de+Informação;Hello+I'm+Vinicius!;Information+Systems+Student;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=42&center=true&vCenter=true&width=1000&lines=Olá+Eu+Sou+Vinicius!;👨‍💻Técnico+em+ADS;🐍Bootcamp+Python+Santander;🎓Sistemas+de+Informação;Hello+I'm+Vinicius!;Information+Systems+Student;)](https://git.io/typing-svg)
 
 <div style="background: #000000; height: 3px; border-radius: 2px; margin: 15px 0;"></div>
 
+<span style="color: #00FF00; font-size: 24px; font-weight: bold;">
 <img src="https://img.shields.io/badge/🚀-Bootcamp%20Python%20Santander-000000?style=for-the-badge&logo=python&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/🎓-Análise+e+Desenvolvimento-000000?style=for-the-badge&logo=school&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/📚-Sistemas+de+Informação-000000?style=for-the-badge&logo=university&logoColor=FFFFFF" />
+</span>
 
 </div>
 </div>
@@ -24,18 +26,20 @@
 ---
 
 <div align="center">
+  <span style="color: #00FF00; font-size: 20px;">
   <img src="https://img.shields.io/badge/📅-Comecei+em+2024-00FF00?style=flat-square&logo=calendar&logoColor=000000" />
+  </span>
 </div>
 
-🎓 Técnico em **Análise e Desenvolvimento de Sistemas (ADS)**  
-🎓 Graduando em **Sistemas de Informação**  
+<span style="color: #00FF00; font-size: 28px; font-weight: bold;">🎓 Técnico em **Análise e Desenvolvimento de Sistemas (ADS)**</span>  
+<span style="color: #00FF00; font-size: 28px; font-weight: bold;">🎓 Graduando em **Sistemas de Informação**</span>  
 
-**🐍 Atualmente no Bootcamp Python Santander**  
-**💻 Aprendendo desenvolvimento web e backend**  
+<span style="color: #00FF00; font-size: 22px; font-weight: bold;">🐍 Atualmente no Bootcamp Python Santander</span>  
+<span style="color: #00FF00; font-size: 22px; font-weight: bold;">💻 Aprendendo desenvolvimento web e backend</span>  
 
-Comecei a aprender programação em **2024**, durante o curso técnico. Desde então, venho me dedicando ao estudo da lógica de programação, algoritmos e desenvolvimento web.
+<span style="color: #000000;">Comecei a aprender programação em **2024**, durante o curso técnico. Desde então, venho me dedicando ao estudo da lógica de programação, algoritmos e desenvolvimento web.</span>
 
-**🚀 Meu objetivo: Estágio em desenvolvimento!**
+<span style="color: #00FF00; font-size: 22px; font-weight: bold;">🚀 Meu objetivo: Estágio em desenvolvimento!</span>
 
 ---
 
@@ -43,14 +47,14 @@ Comecei a aprender programação em **2024**, durante o curso técnico. Desde en
 
 <div align="center">
 
-### 🖥️ **Linguagens**
+### <span style="color: #00FF00; font-size: 24px;">🖥️ **Linguagens**</span>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=FFFFFF)
 
-### 💻 **Projetos em Andamento**
+### <span style="color: #00FF00; font-size: 20px;">💻 **Projetos em Andamento**</span>
 <div style="
   background: #00FF00; 
   padding: 10px 18px; 
@@ -93,7 +97,7 @@ Comecei a aprender programação em **2024**, durante o curso técnico. Desde en
 
 ---
 
-## 🌎 Conecte-se comigo
+## <span style="color: #00FF00; font-size: 26px;">🌎 Conecte-se comigo</span>
 
 <div align="center">
 
